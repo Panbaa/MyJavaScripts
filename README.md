@@ -1,2 +1,2 @@
 # MyJavaScripts
-Eine kleine Sammlung einiger JavaScript-Challenges und Algorithmen.
+## Eine kleine Sammlung einiger JavaScript-Challenges und Algorithmen.
